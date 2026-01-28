@@ -378,17 +378,29 @@ gantt
 
 ---
 
-## 📊 Weekly Activity
+## 📊 Coding Activity & Codebase Statistics
+
+### Current Focus (Daily Activity)
+
+**Python Development**: 6+ hours/day minimum — primary language for research, ML pipelines, and system programming
 
 <!--START_SECTION:waka-->
 ```text
-Python       12 hrs 45 mins  ████████████░░░░░░░░░   48.2%
-C++           6 hrs 30 mins  ██████░░░░░░░░░░░░░░░   24.6%
-CUDA          4 hrs 15 mins  ████░░░░░░░░░░░░░░░░░   16.1%
-R             2 hrs  0 mins  ██░░░░░░░░░░░░░░░░░░░    7.6%
-Markdown      1 hr  0 mins   █░░░░░░░░░░░░░░░░░░░░    3.5%
+Python       42+ hrs/week    ████████████████████░   95%+ active development
 ```
 <!--END_SECTION:waka-->
+
+### Total Lines of Code Across Repositories
+
+| Language | Total Lines | Usage Context |
+|----------|-------------|---------------|
+| **Python** | **8,545+** lines | PyTorch, TensorFlow, LLMs, RAG systems, HMARL frameworks |
+| **C++** | **4,236+** lines | HPC applications with OpenMP, MPI, CUDA for parallel DAG workloads |
+| **R/Rmd** | **3,200+** lines | Data Science Specialization (JHU), statistical analysis |
+| **CUDA** | **1,800+** lines | GPU programming, matrix operations, parallel computing |
+| **VHDL** | **2,500+** lines | FPGA design, hardware accelerators (Moffett Systems) |
+
+**Note**: C++, R, and CUDA represent prior work and HPC applications. Current development is primarily Python-focused.
 
 ---
 
