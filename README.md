@@ -417,17 +417,6 @@ Python       42+ hrs/week    █████████████████
 
 ---
 
-## 📖 Recent Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Understanding LoRA: Efficient LLM Fine-Tuning](#)
-- [CUDA Optimization: From Basics to Advanced](#)
-- [Building Production RAG Systems with LangChain](#)
-- [Energy-Aware Scheduling for Heterogeneous Systems](#)
-<!-- BLOG-POST-LIST:END -->
-
----
-
 ## 💡 Fun Facts
 
 - 🎯 Solved **150+ LeetCode** problems across all difficulty levels
