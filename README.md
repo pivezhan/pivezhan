@@ -7,9 +7,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mpivezhandi-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mpivezhandi/)
 [![CV](https://img.shields.io/badge/CV-Download-success?style=for-the-badge&logo=read-the-docs)](https://pivezhan.github.io/cv)
 
-**Ph.D. Candidate in Computer Science | Wayne State University**
+**Ph.D. in Computer Science | Wayne State University (2025)**
 
-*AI-guided energy-, thermal-, and performance-aware scheduling for heterogeneous multicore and embedded systems*
+*AI-driven scheduling, FPGA sensing algorithms, and real-time systems for heterogeneous multicore and embedded platforms*
 
 </div>
 
@@ -17,7 +17,7 @@
 
 ## 🎯 About Me
 
-I'm a **Ph.D. candidate in Computer Science** at Wayne State University, specializing in:
+I'm a **Ph.D. in Computer Science** from Wayne State University (2025), specializing in:
 
 - 🧠 **AI-Driven System Optimization**: Energy-, thermal-, and performance-aware scheduling
 - 🖥️ **Heterogeneous Computing**: ARM, x86, Jetson platforms
@@ -430,9 +430,9 @@ Markdown      1 hr  0 mins   █░░░░░░░░░░░░░░░░
 
 ## 🎯 2025 Goals
 
-- [ ] Complete Ph.D. dissertation on AI-guided system optimization
-- [ ] Publish 2+ papers in top-tier conferences (DAC, ICCAD, DATE)
-- [ ] Land a role at FAANG/top tech company
+- [x] Complete Ph.D. dissertation on AI-guided system optimization
+- [ ] Publish 2+ papers in top-tier conferences (IPDPS, RTSS, ECRTS)
+- [ ] Land a role at a leading tech/automotive company
 - [ ] Solve 300+ LeetCode problems
 - [ ] Build and deploy 3 production LLM applications
 - [ ] Contribute to 5+ open-source AI/ML projects
