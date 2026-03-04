@@ -7,9 +7,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mpivezhandi-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mpivezhandi/)
 [![CV](https://img.shields.io/badge/CV-Download-success?style=for-the-badge&logo=read-the-docs)](https://pivezhan.github.io/cv)
 
-**Ph.D. in Computer Science | Wayne State University (2025)**
+**Ph.D. in Computer Science | Wayne State University (December 2025)**
 
-*AI-driven scheduling, FPGA sensing algorithms, and real-time systems for heterogeneous multicore and embedded platforms*
+*AI-guided scheduling, reinforcement learning, and real-time systems for heterogeneous multicore and embedded platforms*
 
 </div>
 
@@ -17,15 +17,15 @@
 
 ## 🎯 About Me
 
-I'm a **Ph.D. in Computer Science** from Wayne State University (2025), specializing in:
+I recently completed my **Ph.D. in Computer Science** from Wayne State University (December 2025), specializing in:
 
-- 🧠 **AI-Driven System Optimization**: Energy-, thermal-, and performance-aware scheduling
-- 🖥️ **Heterogeneous Computing**: ARM, x86, Jetson platforms
-- 🚀 **Embedded Systems**: Real-time scheduling and resource management
-- 🤖 **Machine Learning & LLMs**: Generative AI, RAG systems, fine-tuning
-- 💻 **GPU Programming**: CUDA optimization and parallel computing
+- 🧠 **AI-Driven System Optimization**: Energy-, thermal-, and performance-aware scheduling using hierarchical multi-agent reinforcement learning
+- 🖥️ **Heterogeneous Computing**: ARM, x86, NVIDIA Jetson platforms (TX2, Orin NX)
+- 🚀 **Embedded Systems**: Real-time scheduling and resource management for OpenMP DAG workloads
+- 🤖 **Machine Learning**: Deep reinforcement learning, graph neural networks, LLM-guided resource allocation
+- 💻 **Hardware Design**: FPGA/ASIC design, VHDL, Verilog
 
-Currently preparing for **system engineering**, **ML engineering**, **GPU engineering**, and **solutions architect** roles at leading tech companies.
+**U.S. Permanent Resident** - No visa sponsorship required
 
 ---
 
@@ -45,35 +45,10 @@ Currently preparing for **system engineering**, **ML engineering**, **GPU engine
 
 ## 🗂️ Repository Portfolio
 
-### 🎓 Major Learning Repositories
+### 🎓 Major Repositories
 
 <table>
 <tr>
-<td width="50%">
-
-#### 🤖 [Generative AI & LLMs](https://github.com/pivezhan/Generative-AI)
-[![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
-[![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-EE4C2C.svg)](https://pytorch.org/)
-[![LangChain](https://img.shields.io/badge/🦜_LangChain-Framework-2C8EBB.svg)](https://www.langchain.com/)
-
-**Comprehensive Gen AI Journey**
-- ✅ 3 Major Certifications (AWS, IBM, DeepLearning.AI)
-- ✅ 16-Course IBM Specialization
-- ✅ LangChain Mastery & RAG Systems
-- ✅ Fine-tuning, PEFT, LoRA, RLHF
-- ✅ Production-ready implementations
-
-**Key Projects:**
-- 📝 Dialogue Summarization (FLAN-T5)
-- 🔧 Model Fine-tuning Pipeline (AWS SageMaker)
-- ✨ RLHF Detoxification Model
-- 🤖 RAG-Powered QA System
-- 🎙️ Voice Assistant with Whisper
-- 🌐 Universal Language Translator
-
-[**→ Explore Repository**](https://github.com/pivezhan/Generative-AI)
-
-</td>
 <td width="50%">
 
 #### 🎯 [Interview Preparation](https://github.com/pivezhan/interview_prep)
@@ -81,21 +56,44 @@ Currently preparing for **system engineering**, **ML engineering**, **GPU engine
 [![C++](https://img.shields.io/badge/C++-17-00599C.svg)](https://isocpp.org/)
 [![CUDA](https://img.shields.io/badge/CUDA-Enabled-76B900.svg)](https://developer.nvidia.com/cuda-zone)
 
-**Structured Technical Interview Prep**
-- ✅ 150+ LeetCode Problems
-- ✅ GPU/CUDA Programming
-- ✅ System Design Patterns
-- ✅ ML/DL Implementations
-- ✅ 4 Industry Certifications
+**Technical Interview Preparation**
+- LeetCode problem solutions
+- GPU/CUDA programming examples
+- Data structures & algorithms implementations
+- System design patterns
+- ML/DL algorithm implementations
 
 **Coverage:**
-- 📊 Data Structures & Algorithms
-- 🚀 CUDA & GPU Optimization
-- 🐍 Python Standard Library
+- 📊 Arrays, Linked Lists, Trees, Graphs
+- 🚀 CUDA & GPU matrix operations
+- 🐍 Python Standard Library (itertools, collections)
 - 🤖 PyTorch & NumPy
 - 💻 C++ & STL
 
 [**→ Explore Repository**](https://github.com/pivezhan/interview_prep)
+
+</td>
+<td width="50%">
+
+#### 🤖 [Generative AI & LLMs](https://github.com/pivezhan/Generative-AI)
+[![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
+[![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-EE4C2C.svg)](https://pytorch.org/)
+[![LangChain](https://img.shields.io/badge/🦜_LangChain-Framework-2C8EBB.svg)](https://www.langchain.com/)
+
+**Generative AI Learning**
+- Course materials from AWS, IBM, DeepLearning.AI
+- LangChain application development
+- RAG systems implementation
+- Model fine-tuning techniques
+
+**Key Topics:**
+- 📝 Dialogue summarization
+- 🔧 PEFT and LoRA
+- ✨ RLHF techniques
+- 🤖 RAG-powered Q&A systems
+- 🎙️ Voice processing with Whisper
+
+[**→ Explore Repository**](https://github.com/pivezhan/Generative-AI)
 
 </td>
 </tr>
@@ -106,23 +104,22 @@ Currently preparing for **system engineering**, **ML engineering**, **GPU engine
 [![R](https://img.shields.io/badge/R-276DC3.svg)](https://www.r-project.org/)
 [![Coursera](https://img.shields.io/badge/Coursera-JHU-0056D2.svg)](https://www.coursera.org/)
 
-**Johns Hopkins University Program**
-- ✅ 9-Course Specialization Complete
-- ✅ 6 Certificates Earned
-- ✅ R Programming Mastery
-- ✅ Statistical Inference
-- ✅ Machine Learning with Caret
+**Johns Hopkins University 9-Course Program**
+- R Programming
+- Statistical Inference
+- Machine Learning with Caret
+- Data Analysis & Visualization
 
-**Courses Completed:**
-1. Data Scientist's Toolbox
-2. R Programming
-3. Getting & Cleaning Data
-4. Exploratory Data Analysis
-5. Reproducible Research
-6. Statistical Inference
-7. Regression Models
-8. Practical Machine Learning
-9. Developing Data Products
+**Completed Courses:**
+1. The Data Scientist's Toolbox (99.3%)
+2. R Programming (100%)
+3. Getting & Cleaning Data (98%)
+4. Statistical Inference (100%)
+5. Reproducible Research (97.1%)
+6. Regression Models (91.7%)
+7. Exploratory Data Analysis (96.7%)
+8. Practical Machine Learning (100%)
+9. Developing Data Products (96.9%)
 
 [**→ Explore Repository**](https://github.com/pivezhan/Data-Science-Specialization)
 
@@ -133,16 +130,16 @@ Currently preparing for **system engineering**, **ML engineering**, **GPU engine
 [![Website](https://img.shields.io/badge/Status-Live-success.svg)](https://pivezhan.github.io)
 
 **Professional Portfolio & Research**
-- 📄 Publications & Research Papers
-- 🎓 Teaching Experience
-- 🏆 Projects & Achievements
-- 🎨 Hobbies & Interests
+- Publications & Research Papers
+- Teaching Experience
+- Projects & Ph.D. Work
+- CV and Academic Background
 
-**Sections:**
-- [Projects](https://pivezhan.github.io/projects)
-- [Publications](https://pivezhan.github.io/publications)
-- [Teaching](https://pivezhan.github.io/teaching)
-- [Hobbies](https://pivezhan.github.io/hobbies)
+**Featured:**
+- [Publications](https://pivezhan.github.io/publications) - 10+ peer-reviewed papers
+- [Projects](https://pivezhan.github.io/projects) - Research projects
+- [Teaching](https://pivezhan.github.io/teaching) - Iowa State University TA experience
+- [CV](https://pivezhan.github.io/cv) - Complete academic CV
 
 [**→ Visit Website**](https://pivezhan.github.io)
 
@@ -155,7 +152,7 @@ Currently preparing for **system engineering**, **ML engineering**, **GPU engine
 ## 🏆 Certifications & Achievements
 
 <details>
-<summary><b>📜 Click to view all 20+ certifications</b></summary>
+<summary><b>📜 Click to view certifications</b></summary>
 
 ### 🎓 Software Engineering & Interview Prep
 
@@ -163,7 +160,7 @@ Currently preparing for **system engineering**, **ML engineering**, **GPU engine
 |------------|-------------|------|------|
 | 🥇 **Introduction to Software Engineering** | IBM | 2024 | [Verify](https://www.coursera.org/account/accomplishments/verify/K1I40TWU2DNY) |
 | 🥇 **Algorithmic Toolbox** | UC San Diego | 2024 | [Verify](https://www.coursera.org/account/accomplishments/verify/TJGVPNFW5UXD) |
-| 🥇 **Java Programming: Solving Problems** | Duke University | 2024 | [Verify](https://www.coursera.org/account/accomplishments/verify/BPQ4YL8O1GYQ) |
+| 🥇 **Java Programming: Solving Problems** | Duke University | 2022 | [Verify](https://www.coursera.org/account/accomplishments/verify/BPQ4YL8O1GYQ) |
 | 🥇 **Coding Interview Preparation** | Meta | 2024 | [Verify](https://www.coursera.org/account/accomplishments/verify/F51ETMLK47JF) |
 | 🥇 **Software Developer Career Guide** | IBM | 2024 | [Verify](https://www.coursera.org/account/accomplishments/verify/E9JBR4SQ25LU) |
 
@@ -171,7 +168,7 @@ Currently preparing for **system engineering**, **ML engineering**, **GPU engine
 
 | Certificate | Institution | Year | Link |
 |------------|-------------|------|------|
-| 🏆 **Generative AI with Large Language Models** | AWS + DeepLearning.AI | 2024 | [Verify](https://www.coursera.org/account/accomplishments/verify/Q45TTU6I0D40) |
+| 🏆 **Generative AI with Large Language Models** | DeepLearning.AI | 2024 | [Verify](https://www.coursera.org/account/accomplishments/verify/Q45TTU6I0D40) |
 | 🏆 **LangChain for LLM Application Development** | DeepLearning.AI | 2024 | [Course](https://www.deeplearning.ai/short-courses/langchain-for-llm-application-development/) |
 | 🏆 **Generative AI: Elevate Software Development** | IBM | 2024 | [Verify](https://www.coursera.org/account/accomplishments/verify/CG14ZL77BFE8) |
 
@@ -193,17 +190,17 @@ Currently preparing for **system engineering**, **ML engineering**, **GPU engine
 | 📝 **Reproducible Research** | 97.1% | 2015 | [View PDF](https://www.dropbox.com/s/gu82lzy3t8cu2vt/repdata2015.pdf) |
 | 📉 **Regression Models** | 91.7% | 2015 | - |
 | 🔍 **Exploratory Data Analysis** | 96.7% | 2015 | - |
-| 🤖 **Practical Machine Learning** | 100.0% | 2015 | [View PDF](https://www.dropbox.com/s/your-link/ml2015.pdf) |
+| 🤖 **Practical Machine Learning** | 100.0% | 2015 | - |
 | 🌐 **Developing Data Products** | 96.9% | 2015 | - |
 
-### 🎯 Advanced Specializations
+### 🎓 Advanced Courses
 
-| Specialization | Institution | Status | Link |
-|---------------|-------------|--------|------|
-| 📚 **Data Structures and Algorithms** | UC San Diego | In Progress | [Specialization](https://www.coursera.org/specializations/data-structures-algorithms) |
-| 🧠 **Deep Learning** | Stanford/DeepLearning.AI | In Progress | [Specialization](https://www.coursera.org/specializations/deep-learning) |
-| 📊 **Data Science** | Johns Hopkins | Completed | [Specialization](https://www.coursera.org/specializations/jhu-data-science) |
-| 🤖 **Machine Learning** | Stanford | Completed | [Course](https://www.coursera.org/course/ml) |
+| Course | Institution | Year | Link |
+|--------|-------------|------|------|
+| 🤖 **Machine Learning** | Stanford University | 2014 | [Coursera](https://www.coursera.org/course/ml) |
+| 🖥️ **Application of Parallel Computers** | UC Berkeley | 2019 | [Course](http://inst.eecs.berkeley.edu/~cs267/) |
+| 🧠 **Deep Learning** | Iowa State University | 2020 | - |
+| 🎯 **High Performance Computing** | Iowa State University | 2019 | - |
 
 </details>
 
@@ -215,192 +212,81 @@ Currently preparing for **system engineering**, **ML engineering**, **GPU engine
 
 ### Programming Languages
 ![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-Expert-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C++](https://img.shields.io/badge/C++-Advanced-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-Advanced-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![R](https://img.shields.io/badge/R-Advanced-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Java](https://img.shields.io/badge/Java-Advanced-007396?style=for-the-badge&logo=java&logoColor=white)
-![CUDA](https://img.shields.io/badge/CUDA-Advanced-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![Java](https://img.shields.io/badge/Java-Intermediate-007396?style=for-the-badge&logo=java&logoColor=white)
 
-### AI/ML Frameworks
+### AI/ML & HPC
 ![PyTorch](https://img.shields.io/badge/PyTorch-Expert-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-Advanced-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-Expert-2C8EBB?style=for-the-badge&logo=chainlink&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-Advanced-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![scikit--learn](https://img.shields.io/badge/scikit--learn-Advanced-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-Advanced-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![OpenMP](https://img.shields.io/badge/OpenMP-Expert-007ACC?style=for-the-badge)
+![MPI](https://img.shields.io/badge/MPI-Advanced-blue?style=for-the-badge)
 
-### Cloud & Tools
-![AWS](https://img.shields.io/badge/AWS-Advanced-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-Advanced-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+### Hardware Design
+![VHDL](https://img.shields.io/badge/VHDL-Expert-purple?style=for-the-badge)
+![Verilog](https://img.shields.io/badge/Verilog-Advanced-orange?style=for-the-badge)
+![FPGA](https://img.shields.io/badge/FPGA-Expert-red?style=for-the-badge)
+
+### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-Expert-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-Expert-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-### Databases & Big Data
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Advanced-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-Intermediate-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-Vector_DB-orange?style=for-the-badge)
-![FAISS](https://img.shields.io/badge/FAISS-Vector_Search-blue?style=for-the-badge)
+![LaTeX](https://img.shields.io/badge/LaTeX-Advanced-008080?style=for-the-badge&logo=latex&logoColor=white)
 
 </div>
 
 ---
 
-## 📈 Interview Preparation Progress
+## 📚 Research Highlights
 
-<div align="center">
+### Ph.D. Dissertation (December 2025)
+**[Data-Efficient AI-Guided Energy- and Thermal-Aware Scheduling on Heterogeneous Multicore Systems](https://github.com/pivezhan/PhD-Thesis-Public)**
+- Wayne State University, Computer Science Department
+- GPA: 4.0/4.0
+- Advisor: Dr. Abusayeed Saifullah
 
-### 🎯 Problem Solving Stats
+### Recent Publications
 
-| Platform | Problems Solved | Difficulty Distribution | Profile |
-|----------|----------------|------------------------|---------|
-| **LeetCode** | 150+ | 🟢 45 Easy \| 🟡 82 Medium \| 🔴 23 Hard | [View Profile](#) |
-| **HackerRank** | 75+ | Python, Data Structures, Algorithms | [View Profile](#) |
-| **Project Euler** | 30+ | Mathematical Problems | [View Profile](#) |
+- **ICLR 2026 Workshop**: ZeroDVFS - Zero-Shot LLM-Guided Autonomous Agent for Energy-Aware Resource Allocation
+- **IEEE RTCSA 2025**: Feature-Aware Task-to-Core Allocation via Statistical Learning
+- **IEEE RTSS 2024 WIP**: Energy and Thermal-Aware Scheduling using HMARL for OpenMP DAG Workloads
+- **Euromicro ECRTS 2023**: Precise Scheduling of DAG Tasks with Dynamic Power Management
 
-### 📊 Topics Mastered
+See full publication list at [pivezhan.github.io/publications](https://pivezhan.github.io/publications)
 
-```
-Arrays & Strings          ████████████████████ 100%
-Hash Tables              ████████████████████ 100%
-Linked Lists             ████████████████████ 100%
-Trees & Graphs           ███████████████████░  95%
-Dynamic Programming      ██████████████████░░  90%
-Binary Search            ████████████████████ 100%
-Sorting & Searching      ████████████████████ 100%
-GPU/CUDA Programming     ████████████████░░░░  80%
-System Design            ███████████░░░░░░░░░  55%
-```
+### Key Research Achievements
 
-### 🎯 Current Focus (Updated Weekly)
-
-- 🔄 **Advanced Dynamic Programming** patterns
-- 🔄 **System Design** case studies
-- 🔄 **CUDA Optimization** techniques
-- 🔄 **LLM Deployment** strategies
-- 🔄 **Distributed Systems** concepts
-
-</div>
+- 🎯 Achieved **49.06% makespan reduction** and **40.95% energy reduction** using Hierarchical Multi-Agent RL
+- 🌡️ Reduced core temperature by **5°C** through feature-aware task allocation
+- 🔬 Published **10+ papers** in top-tier venues (RTSS, RTCSA, ECRTS, HPCC, ASAP)
+- 💰 Secured **NSF funding** for research on AI-guided scheduling
 
 ---
 
-## 🚀 Featured Projects
+## 💼 Professional Experience
 
-### 🤖 Generative AI Projects
+### Wayne State University, Detroit, MI
+**Graduate Research Assistant** (2022-2025)
+- Developed HMARL framework for energy-aware scheduling on heterogeneous platforms
+- Achieved state-of-the-art results on NVIDIA Jetson TX2 and Intel Core i7
+- Published research in IEEE RTSS and RTCSA
 
-<table>
-<tr>
-<td width="50%">
+### Iowa State University, Ames, IA
+**Graduate Research Assistant** (2021-2022)
+- Architected energy-aware scheduling algorithms for DAG workloads
+- Developed GNN-based scheduler for data warehouse ETL processing
+- Designed FPGA architecture for event-based camera systems
 
-**📝 Dialogue Summarization System**
-- Technology: FLAN-T5, Transformers
-- Features: Zero/few-shot prompting
-- Metrics: ROUGE score optimization
-- Location: `Generative-AI/Generative_AI_LLMs_AWS/week 1/`
+**Graduate Teaching Assistant** (2019-2022)
+- Course Instructor: CprE 381 Computer Organization (200+ students)
+- Teaching Assistant: CprE 327 Advanced OOP (180+ students)
+- Teaching Assistant: CprE 185 Introduction to C Programming (140+ students)
 
-</td>
-<td width="50%">
-
-**🔧 Model Fine-Tuning Pipeline**
-- Technology: AWS SageMaker, LoRA, PEFT
-- Features: Parameter-efficient fine-tuning
-- Results: 40% compute reduction
-- Location: `Generative-AI/Generative_AI_LLMs_AWS/week 2/`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**✨ RLHF Detoxification Model**
-- Technology: PPO, Reward Modeling
-- Features: Human feedback alignment
-- Results: 85% toxicity reduction
-- Location: `Generative-AI/Generative_AI_LLMs_AWS/week 3/`
-
-</td>
-<td width="50%">
-
-**🤖 RAG-Powered QA System**
-- Technology: LangChain, Chroma, OpenAI
-- Features: Multi-doc retrieval, memory
-- Scale: 1000+ documents
-- Location: `Generative-AI/LangChain-for-LLM-Application-Development/`
-
-</td>
-</tr>
-</table>
-
-### 💻 System Programming Projects
-
-<table>
-<tr>
-<td width="50%">
-
-**🚀 GPU Matrix Multiplication**
-- Language: CUDA C++
-- Optimization: Shared memory, tiling
-- Performance: 10x speedup
-- Location: `interview_prep/CodingInterviewPreparation/GPU/`
-
-</td>
-<td width="50%">
-
-**⚡ Energy-Aware Scheduler**
-- Technology: C++, ARM, Linux
-- Features: DVFS, thermal management
-- Results: 30% energy savings
-- Status: Research project
-
-</td>
-</tr>
-</table>
-
----
-
-## 📚 Learning Journey Timeline
-
-```mermaid
-gantt
-    title My Technical Journey
-    dateFormat YYYY-MM
-    section Education
-    Ph.D. Computer Science       :2020-09, 2025-05
-    
-    section Certifications
-    Data Science (JHU)            :2015-01, 2015-12
-    Algorithmic Toolbox           :2024-03, 2024-06
-    Generative AI (AWS)           :2024-06, 2024-08
-    IBM Gen AI Specialization     :2024-08, 2024-11
-    
-    section Interview Prep
-    LeetCode Practice             :2024-09, 2025-03
-    System Design Study           :2024-10, 2025-02
-    CUDA/GPU Programming          :2024-11, 2025-01
-```
-
----
-
-## 📊 Coding Activity & Codebase Statistics
-
-### Current Focus (Daily Activity)
-
-**Python Development**: 6+ hours/day minimum — primary language for research, ML pipelines, and system programming
-
-<!--START_SECTION:waka-->
-```text
-Python       42+ hrs/week    ████████████████████░   95%+ active development
-```
-<!--END_SECTION:waka-->
-
-### Total Lines of Code Across Repositories
-
-| Language | Total Lines | Usage Context |
-|----------|-------------|---------------|
-| **Python** | **8,545+** lines | PyTorch, TensorFlow, LLMs, RAG systems, HMARL frameworks |
-| **C++** | **4,236+** lines | HPC applications with OpenMP, MPI, CUDA for parallel DAG workloads |
-| **R/Rmd** | **3,200+** lines | Data Science Specialization (JHU), statistical analysis |
-| **CUDA** | **1,800+** lines | GPU programming, matrix operations, parallel computing |
-| **VHDL** | **2,500+** lines | FPGA design, hardware accelerators (Moffett Systems) |
-
-**Note**: C++, R, and CUDA represent prior work and HPC applications. Current development is primarily Python-focused.
+### Moffett Systems, Inc., Los Altos, CA
+**Research Intern** (2020-2021)
+- Optimized FPGA prototyping and RTL design for hardware accelerators
+- Reduced verification latency by 15% through debugging enhancements
 
 ---
 
@@ -409,36 +295,11 @@ Python       42+ hrs/week    █████████████████
 <div align="center">
 
 [![Website](https://img.shields.io/badge/🌐_Website-pivezhan.github.io-blue?style=for-the-badge)](https://pivezhan.github.io)
-[![Email](https://img.shields.io/badge/📧_Email-Contact_Me-red?style=for-the-badge)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/📧_Email-pivezhandi@wayne.edu-red?style=for-the-badge)](mailto:pivezhandi@wayne.edu)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-mpivezhandi-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mpivezhandi/)
 [![Google Scholar](https://img.shields.io/badge/🎓_Scholar-Publications-4285F4?style=for-the-badge&logo=google-scholar)](https://scholar.google.com/citations?user=uv7HouQAAAAJ&hl=en)
 
 </div>
-
----
-
-## 💡 Fun Facts
-
-- 🎯 Solved **150+ LeetCode** problems across all difficulty levels
-- 🚀 Built **7 end-to-end** Generative AI applications
-- 📚 Completed **20+ technical certifications** from top institutions
-- 🔬 Published research on **energy-aware scheduling** for embedded systems
-- 🎓 Mentored **50+ students** in data structures and algorithms
-- 💻 Contributed to **open-source** projects in ML and systems
-- 🌍 Multilingual: English, Farsi, and learning Spanish
-
----
-
-## 🎯 2025 Goals
-
-- [x] Complete Ph.D. dissertation on AI-guided system optimization
-- [ ] Publish 2+ papers in top-tier conferences (IPDPS, RTSS, ECRTS)
-- [ ] Land a role at a leading tech/automotive company
-- [ ] Solve 300+ LeetCode problems
-- [ ] Build and deploy 3 production LLM applications
-- [ ] Contribute to 5+ open-source AI/ML projects
-- [ ] Write 12 technical blog posts
-- [ ] Complete Deep Learning Specialization
 
 ---
 
@@ -462,47 +323,8 @@ Python       42+ hrs/week    █████████████████
 
 ### ⭐ Star my repositories if you find them helpful!
 
-**Open to collaborations, research opportunities, and full-time positions 🚀**
+**Open to research collaborations and full-time positions in AI/ML, embedded systems, and HPC 🚀**
 
-*Last Updated: November 19, 2025*
-
-</div>
-
----
-
-<details>
-<summary><b>🔧 Profile Setup & Maintenance</b></summary>
-
-### How This Profile Works
-
-This GitHub profile README uses several dynamic features:
-
-1. **GitHub Stats**: Powered by [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
-2. **Streak Stats**: Using [github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-3. **Activity Graph**: Via [github-readme-activity-graph](https://github.com/Ashutosh00710/github-readme-activity-graph)
-4. **Visitor Counter**: Using [komarev's profile views counter](https://github.com/antonkomarev/github-profile-views-counter)
-
-### Keeping It Updated
-
-- **Weekly**: Update progress statistics, current focus areas
-- **Monthly**: Add new certifications, update project highlights
-- **Quarterly**: Review and update goals, refresh featured projects
-
-### Customization Tips
-
-- Replace placeholder links with your actual profiles
-- Update repository links as you create/organize repos
-- Adjust skill percentages based on actual progress
-- Add/remove sections based on your preferences
-
-</details>
-
----
-
-<div align="center">
-
-**Thank you for visiting my profile! Let's build something amazing together! 🚀**
-
-[![GitHub](https://img.shields.io/badge/Follow-@pivezhan-181717?style=for-the-badge&logo=github)](https://github.com/pivezhan)
+*Last Updated: March 2026*
 
 </div>
