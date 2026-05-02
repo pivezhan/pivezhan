@@ -248,6 +248,7 @@ I recently completed my **Ph.D. in Computer Science** from Wayne State Universit
 
 ### Recent Publications
 
+- **IJCAI-ECAI 2026 (AI4Tech Special Track)**: GraphPerf-RT - Graph-Driven Performance Modeling with Calibrated Uncertainty for OpenMP Scheduling on Heterogeneous Embedded SoCs (acceptance rate 18.8%)
 - **ICLR 2026 Workshop**: ZeroDVFS - Zero-Shot LLM-Guided Autonomous Agent for Energy-Aware Resource Allocation
 - **IEEE RTCSA 2025**: Feature-Aware Task-to-Core Allocation via Statistical Learning
 - **IEEE RTSS 2024 WIP**: Energy and Thermal-Aware Scheduling using HMARL for OpenMP DAG Workloads
@@ -259,7 +260,7 @@ See full publication list at [pivezhan.github.io/publications](https://pivezhan.
 
 - 🎯 Achieved **49.06% makespan reduction** and **40.95% energy reduction** using Hierarchical Multi-Agent RL
 - 🌡️ Reduced core temperature by **5°C** through feature-aware task allocation
-- 🔬 Published **10+ papers** in top-tier venues (RTSS, RTCSA, ECRTS, HPCC, ASAP)
+- 🔬 Published **10+ papers** in top-tier venues (IJCAI-ECAI, RTSS, RTCSA, ECRTS, HPCC, ASAP)
 - 💰 Secured **NSF funding** for research on AI-guided scheduling
 
 ---
