@@ -7,7 +7,10 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mpivezhandi-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mpivezhandi/)
 [![CV](https://img.shields.io/badge/CV-Download-success?style=for-the-badge&logo=read-the-docs)](https://pivezhan.github.io/cv)
 
-**Ph.D. in Computer Science | Wayne State University (December 2025)**
+**Assistant Professor (Teaching), Computer Science | Wayne State University**
+**Researcher, Vehicle Health Group | General Motors R&D Center**
+
+*Ph.D. in Computer Science, Wayne State University (December 2025)*
 
 *AI-guided scheduling, reinforcement learning, and real-time systems for heterogeneous multicore and embedded platforms*
 
@@ -17,7 +20,7 @@
 
 ## 🎯 About Me
 
-I recently completed my **Ph.D. in Computer Science** from Wayne State University (December 2025), specializing in:
+I am an **Assistant Professor (Teaching) of Computer Science at Wayne State University** (since August 2026) and a **Researcher in the Vehicle Health group at the General Motors R&D Center** in Warren, MI (since April 2026). I completed my **Ph.D. in Computer Science** at Wayne State University in December 2025, specializing in:
 
 - 🧠 **AI-Driven System Optimization**: Energy-, thermal-, and performance-aware scheduling using hierarchical multi-agent reinforcement learning
 - 🖥️ **Heterogeneous Computing**: ARM, x86, NVIDIA Jetson platforms (TX2, Orin NX)
@@ -138,7 +141,7 @@ I recently completed my **Ph.D. in Computer Science** from Wayne State Universit
 **Featured:**
 - [Publications](https://pivezhan.github.io/publications) - 10+ peer-reviewed papers
 - [Projects](https://pivezhan.github.io/projects) - Research projects
-- [Teaching](https://pivezhan.github.io/teaching) - Iowa State University TA experience
+- [Teaching](https://pivezhan.github.io/teaching) - Wayne State faculty and Iowa State TA experience
 - [CV](https://pivezhan.github.io/cv) - Complete academic CV
 
 [**→ Visit Website**](https://pivezhan.github.io)
@@ -248,7 +251,7 @@ I recently completed my **Ph.D. in Computer Science** from Wayne State Universit
 
 ### Recent Publications
 
-- **IJCAI-ECAI 2026 (AI4Tech Special Track)**: GraphPerf-RT - Graph-Driven Performance Modeling with Calibrated Uncertainty for OpenMP Scheduling on Heterogeneous Embedded SoCs (acceptance rate 18.8%)
+- **IJCAI-ECAI 2026 (AI4Tech Special Track)**: GraphPerf-RT - Graph-Driven Performance Modeling with Calibrated Uncertainty for OpenMP Scheduling on Heterogeneous Embedded SoCs (acceptance rate 18.8%) — presented in Bremen, Germany, August 2026
 - **ICLR 2026 Workshop**: ZeroDVFS - Zero-Shot LLM-Guided Autonomous Agent for Energy-Aware Resource Allocation
 - **IEEE RTCSA 2025**: Feature-Aware Task-to-Core Allocation via Statistical Learning
 - **IEEE RTSS 2024 WIP**: Energy and Thermal-Aware Scheduling using HMARL for OpenMP DAG Workloads
@@ -262,10 +265,22 @@ See full publication list at [pivezhan.github.io/publications](https://pivezhan.
 - 🌡️ Reduced core temperature by **5°C** through feature-aware task allocation
 - 🔬 Published **10+ papers** in top-tier venues (IJCAI-ECAI, RTSS, RTCSA, ECRTS, HPCC, ASAP)
 - 💰 Secured **NSF funding** for research on AI-guided scheduling
+- 📝 Peer reviewer for **ACM TECS**, **NeurIPS 2026**, **AAAI 2026**, and AISTATS; TPC member for ISPA and IWCMC 2026
 
 ---
 
 ## 💼 Professional Experience
+
+### Wayne State University, Detroit, MI
+**Assistant Professor (Teaching), Computer Science** (Aug 2026-Present)
+- Full-time, non-tenure-track faculty in the online Artificial Intelligence degree program
+- Fall 2026 courses: Software Engineering (CSC 4110), AI Literacy (CSC 1001)
+- Curriculum development, assessment, student recruitment, and departmental service
+
+### General Motors R&D Center, Warren, MI
+**Researcher, Vehicle Health Group (Contractor)** (Apr 2026-Present)
+- Developing AI/ML-based vehicle health management and predictive diagnostics for energy and propulsion systems
+- Applying physics-based modeling and machine learning to large-scale vehicle telemetry for fault detection and performance optimization
 
 ### Wayne State University, Detroit, MI
 **Graduate Research Assistant** (2022-2025)
@@ -324,8 +339,8 @@ See full publication list at [pivezhan.github.io/publications](https://pivezhan.
 
 ### ⭐ Star my repositories if you find them helpful!
 
-**Open to research collaborations and full-time positions in AI/ML, embedded systems, and HPC 🚀**
+**Open to research collaborations in AI/ML, embedded systems, and HPC 🚀**
 
-*Last Updated: March 2026*
+*Last Updated: August 2026*
 
 </div>
